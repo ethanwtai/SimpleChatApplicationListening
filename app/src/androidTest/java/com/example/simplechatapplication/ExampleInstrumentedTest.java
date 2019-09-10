@@ -1,4 +1,4 @@
-package com.example.simplechatapplicationserver;
+package com.example.simplechatapplication;
 
 import android.content.Context;
 

@@ -1,4 +1,4 @@
-package com.example.simplechatapplicationserver;
+package com.example.simplechatapplication;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.AsyncTask;

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Simple Chat Application Server</string>
+    <string name="app_name">Simple Chat Application</string>
     <string name="hello">Hello</string>
     <string name="Connect">Connect</string>
 </resources>
