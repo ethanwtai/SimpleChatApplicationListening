@@ -1,4 +1,10 @@
-package com.example.simplechatapplication;
+/*
+This is the serverside application that I built for the simple chat application.
+Later I decided to integrate both the server and client into one application, which is
+the SimpleChatApplication. 
+ */
+
+package com.example.simplechatapplicationserver;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.AsyncTask;

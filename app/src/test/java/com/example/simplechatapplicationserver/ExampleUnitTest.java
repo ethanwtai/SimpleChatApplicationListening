@@ -1,4 +1,4 @@
-package com.example.simplechatapplication;
+package com.example.simplechatapplicationserver;
 
 import org.junit.Test;
 
